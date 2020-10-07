@@ -3,7 +3,7 @@
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Flucastanger.me)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shdwnew?style=social)
 
-## I'm a Computer Science Student at DHBW-Stuttgart, Developer and Sport Lover !
+## I'm a Computer Science Student at DHBW-Stuttgart, Developer and Sports Lover !
 
 - 🔭 I’m currently working on a ML based traffic analysis
 - 🌱 I’m currently learning everything
