@@ -35,9 +35,12 @@
 <br />
 <br />
 
-[![Luca's github stats](https://github-readme-stats.vercel.app/api?username=lucastanger&theme=radical)](https://github.com/lucastanger/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastanger&layout=compact&theme=radical)](https://github.com/lucastanger/github-readme-stats)
+<a href="https://github.com/lucastanger/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastanger" />
+</a>
+<a href="https://github.com/lucastanger/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastanger&layout=compact" />
+</a>
 
 <!--
 **lucastanger/lucastanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
