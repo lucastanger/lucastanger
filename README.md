@@ -44,10 +44,10 @@
 <br />
 
 <a href="https://github.com/lucastanger/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastanger" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastanger&theme=dark&show_icons=true"/>
 </a>
 <a href="https://github.com/lucastanger/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastanger&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastanger&layout=compact&theme=dark" />
 </a>
 
 <!--
