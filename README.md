@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ML & AI
 - 🥅 2021 Goal: Graduate successfully 
 
-### Take a look at my latest projects:
+### Take a look at my latest ML projects:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastanger&repo=realestate_investment_analysis&theme=dracula)](https://github.com/lucastanger/realestate_investment_analysis)
 
