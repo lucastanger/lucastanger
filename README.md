@@ -3,6 +3,8 @@
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=http%3A%2F%2Flucastanger.me)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shdwnew?style=social)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucastanger&theme=dracula&margin-w=15" alt="lucastanger" /></a> </p>
+
 ## I'm a Computer Science Student at DHBW-Stuttgart, Developer and Sports Lover !
 
 - 🔭 I’m currently working on a ML based traffic analysis
@@ -52,6 +54,7 @@
 <a href="https://github.com/lucastanger/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastanger&theme=dracula&show_icons=true"/>
 </a>
+
 <a href="https://github.com/lucastanger/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastanger&layout=compact&theme=dracula" />
 </a>
