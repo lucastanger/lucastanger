@@ -10,6 +10,12 @@
 - 🤔 I’m looking for help with ML & AI
 - 🥅 2021 Goal: Graduate successfully 
 
+### Take a look at my latest projects:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastanger&repo=realestate_investment_analysis&theme=dracula)](https://github.com/lucastanger/realestate_investment_analysis)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastanger&repo=traffic-analysis&theme=dracula)](https://github.com/lucastanger/traffic-analysis)
+
 ### Connect with me:
 
 [<img align="left" alt="lucastanger.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -44,10 +50,10 @@
 <br />
 
 <a href="https://github.com/lucastanger/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastanger&theme=dark&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucastanger&theme=dracula&show_icons=true"/>
 </a>
 <a href="https://github.com/lucastanger/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastanger&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastanger&layout=compact&theme=dracula" />
 </a>
 
 <!--
