@@ -14,6 +14,10 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastanger&repo=realestate_investment_analysis&theme=dracula)](https://github.com/lucastanger/realestate_investment_analysis)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastanger&repo=classification_optimization&theme=dracula)](https://github.com/lucastanger/classification_optimization)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastanger&repo=rock_paper_scissors&theme=dracula)](https://github.com/lucastanger/rock_paper_scissors)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lucastanger&repo=traffic-analysis&theme=dracula)](https://github.com/lucastanger/traffic-analysis)
 
 ### Connect with me:
