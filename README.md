@@ -3,18 +3,13 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Flucastanger.github.io)
 ![Twitter Follow](https://img.shields.io/twitter/follow/shdwnew?style=social)
 
-## I'm a Computer Science Student at DHBW-Stuttgart, Developer and Sports Lover !
-
-- 🔭 I’m currently working on a ML based traffic analysis
-- 🌱 I’m currently learning everything
-- 🤔 I’m looking for help with ML & AI
-- 🥅 2021 Goal: Graduate successfully 
+## I'm a Frontend Developer working at MHP - A Porsche Company !
 
 ### Connect with me:
 
 [<img align="left" alt="lucastanger.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shdwnew | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="lucastanger | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="lucastanger | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="luca.stanger | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -70,4 +65,4 @@ Here are some ideas to get you started:
 [website]: https://lucastanger.me
 [twitter]: https://twitter.com/shdwnew
 [instagram]: https://instagram.com/luca.stanger
-[xing]: https://www.xing.com/profile/Luca_Stanger
+[linkedin]: https://www.linkedin.com/in/luca-stanger-88097a208/
